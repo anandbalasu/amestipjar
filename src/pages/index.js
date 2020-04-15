@@ -12,7 +12,7 @@ import social4 from "../images/social-4.png";
 
 const Intro = () => (
   <div className="intro">
-    <h2>About Ames Tip Jar</h2>
+    <h2>What is the Ames Tip Jar</h2>
     <p>
       Ames Tip Jar is an opportunity to share a small act of kindness with our
       Service Industry community during these uncertain times. With a government
