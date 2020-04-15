@@ -8,26 +8,22 @@ const AboutPage = () => (
     <SEO title="About" />
     <h1>About</h1>
     <p>
-      With a government mandate in effect as of Tuesday, March 17th, all bars
-      &amp; restaurants in the state of Oregon are required to close for the
-      next four weeks, with the exception of take-out and delivery operations.
-      We don't truly know how long this will last &amp; what the lasting
-      economic impact will be for service industry workers. I'm following the
-      examples of DC, Pittsburgh, &amp; Indianapolis by starting a Virtual Tip
-      Jar.
+      Since the majority of citizens in the US are under 'stay at home' orders, bars and
+      restaurants have had to change drastically. Takeout and delivery are still allowed,
+      but in most cases bars and restaurants have laid off or furloughed much of their staff.
+      In Iowa State this will be the case until at least May 4th, and it will take longer for
+      folks to get back on their feet.
     </p>
     <p>
-      If you'd like to support our Portland service industry workers during
-      these uncertain--and very stressful--times, I'm compiling a list of cooks,
-      bartenders, servers, baristas, dishwashers, &amp; other essential folks
-      who keep our city's food &amp; beverage culture thriving. A small
-      contribution can help these folks stay afloat financially while we wait to
-      see what develops in the coming weeks.
+      This site was inspired by Jacqi and Noah's pdxtipjar.com, a virtual "tip jar" for Portland's
+      service industry workers. Simply put, if you've lost hours or your job, we hope you'll sign
+      up to receive tips. If you've been fortunate enough to stay fully employed, we encourage you
+      to tip as often as you can.
     </p>
     <p>Grateful for your support,</p>
-    <p>Jacqi Ko of Hey Love</p>
+    <p>Anand</p>
     <p>
-      <a href="mailto:jacqi@heylovepdx.com">jacqi@heylovepdx.com</a>
+      <a href="mailto:anand.bala@icaiowa.org">anand.bala@icaiowa.org</a>
     </p>
     <h2>Resources</h2>
     <ul>

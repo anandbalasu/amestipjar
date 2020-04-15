@@ -43,7 +43,7 @@ const Pledge = () => (
     </p>
     <h3>Help spread the word and share on social media!</h3>
     <a href={social1}>
-      <img src={social1} alt="Send some love on PDX tip jar" />
+      <img src={social1} alt="Send some love on Ames tip jar" />
     </a>
     <a href={social2}>
       <img
