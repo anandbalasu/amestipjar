@@ -21,7 +21,7 @@ const AboutPage = () => (
       to tip as often as you can.
     </p>
     <p>Grateful for your support,</p>
-    <p>Anand</p>
+    <p>Anand Bala</p>
     <p>
       <a href="mailto:anand.bala@icaiowa.org">anand.bala@icaiowa.org</a>
     </p>
