@@ -13,6 +13,7 @@ const HEADERS = {
   healthcare: "Do you have health care?",
 };
 
+
 const VISIBLE_COLUMNS = ["work", "name", "app", "support_others", "healthcare"];
 
 const tableOverrideStyles = {
