@@ -6,7 +6,7 @@ const SignupForm = () => (
     width="100%"
     height="800"
     style={{ border: "none" }}
-    src="https://docs.google.com/forms/d/e/1FAIpQLSfAW0EtO3hM3xZm_34Z6zFAD1nSGQTTseZUcxw2Hl706yubRA/viewform"
+    src="https://docs.google.com/forms/d/e/1FAIpQLSeh1S6X9PGLtZUPTt8eNPdqBYQSzE1LHvLmDwfXlBCZdgVsLQ/viewform?usp=sf_link"
   />
 );
 
