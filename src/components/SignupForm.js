@@ -9,5 +9,4 @@ const SignupForm = () => (
     src="https://docs.google.com/forms/d/e/1FAIpQLSeh1S6X9PGLtZUPTt8eNPdqBYQSzE1LHvLmDwfXlBCZdgVsLQ/viewform?usp=sf_link"
   />
 );
-
 export default SignupForm;
