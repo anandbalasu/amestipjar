@@ -4,13 +4,13 @@ import PaymentButton from "./PaymentButton";
 import RandomPerson from "./RandomPerson";
 
 const HEADERS = {
-  work: "Where do you work?",
-  role: "What do you do there?",
-  name: "First & Name",
-  app: "What's the best way to tip you?",
-  handle: "What's your handle?",
-  support_others: "Do you financially support others?",
-  healthcare: "Do you have health care?",
+  work: "Where did you work",
+  role: "What did you do there?",
+  name: "Name",
+  app: "Pay",
+  handle: "Handle",
+  support_others: "Do you support others financially?",
+  healthcare: "Do you have healthcare?",
 };
 
 
