@@ -66,6 +66,16 @@ const Pledge = () => (
   </div>
 );
 
+const Testimonial = () => (
+  <div className="pledge">
+    <h2>Those in need</h2>
+    <p>
+      I know so many people that need help right now and out of a job and this is so amazing.
+      -Joan, Mess is Blessed Cleaning Services
+    </p>
+  </div>
+);
+
 const IndexPage = () => {
   const [randomPerson, setRandomPerson] = useState({});
 
@@ -89,6 +99,7 @@ const IndexPage = () => {
         <Link to="/signup">Sign up to receive tips</Link>
       </nav>
       <Pledge />
+      <Testimonial/>
     </Layout>
   );
 };
