@@ -15,7 +15,7 @@ const AboutPage = () => (
       folks to get back on their feet.
     </p>
     <p>
-      This site was inspired by Jacqi and Noah's pdxtipjar.com, a virtual "tip jar" for Portland's
+      This site (created with the help of my friends <a href="https://www.linkedin.com/in/jacob-moss-295b48171/">Jacob Moss</a> and <a href="https://www.linkedin.com/in/justinrfarris/">Justin Farris</a>) was inspired by Jacqi and Noah's pdxtipjar.com, a virtual "tip jar" for Portland's
       service industry workers. Simply put, if you've lost hours or your job, we hope you'll sign
       up to receive tips. If you've been fortunate enough to stay fully employed, we encourage you
       to tip as often as you can.
