@@ -7,6 +7,7 @@ $large: 1000px;
 
 $bg: #ffd6bf;
 $tangerine: #ffae80;
+$red: #ff5c5c;
 $mint: #e2efbb;
 $peach: #ff9469;
 $border: $peach;
@@ -171,14 +172,14 @@ nav {
 
 .random-button {
   @extend .button;
-  background-color: $green;
+  background-color: $red;
   font-weight: bold;
   width: 100%;
   border: none;
   padding: 10px 30px;
   margin: 20px 0;
   font-size: 18px;
-  border: 1px solid $green;
+  border: 1px solid $red;
 }
 
 .button {
