@@ -40,20 +40,12 @@ const AboutPage = () => (
           USBG National Charity Foundation
         </a>
       </li>
+
       <li>
-        Food assistance: <a href="https://oregon.gov">oregon.gov</a> |{" "}
-        <a href="https://oregonfoodbank.org">Oregon Food Bank</a>
+        Rent assistance: <a href="https://caowash.org">Community Action</a>
       </li>
       <li>
-        Rent assistance: <a href="https://homeforward.org">Home Forward</a> |{" "}
-        <a href="https://caowash.org">Community Action</a>
-      </li>
-      <li>
-        Utility assistance: <a href="https://impactnw.org">Impact NW</a> |{" "}
-        <a href="https://humansolutions.org">Human Solutions</a>
-      </li>
-      <li>
-        Medical assistance: <a href="https://oregon.gov">oregon.gov</a>
+        Utility assistance: <a href="https://humansolutions.org">Human Solutions</a>
       </li>
     </ul>
   </Layout>
