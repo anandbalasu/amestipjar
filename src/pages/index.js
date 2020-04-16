@@ -71,7 +71,6 @@ const Testimonial = () => (
     <h2>What we are hearing</h2>
     <p>
       I know so many people that need help right now and out of a job and this is so amazing.
-      <br>
       -Joan, Mess is Blessed Cleaning Services
     </p>
   </div>
