@@ -1,9 +1,9 @@
 {
   "name": "amestipjar",
   "private": true,
-  "description": "Support out-of-work members of the Portland Service industry.",
+  "description": "Support out-of-work members of the Ames Service industry.",
   "version": "1.0.0",
-  "author": "Noah Manger <noah.manger@gmail.com>",
+  "author": "Anand Bala <anand.bala@icaiowa.org>",
   "dependencies": {
     "gatsby": "^2.19.45",
     "gatsby-image": "^2.2.44",
@@ -42,9 +42,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/noahmanger/pdxtipjar"
+    "url": "https://github.com/anandbalasu/pdxtipjar"
   },
   "bugs": {
-    "url": "https://github.com/noahmanger/pdxtipjar/issues"
+    "url": "https://github.com/anandbalasu/pdxtipjar/issues"
   }
 }
