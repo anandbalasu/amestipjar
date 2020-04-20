@@ -15,7 +15,7 @@ const HEADERS = {
 };
 
 
-const VISIBLE_COLUMNS = ["work", "name", "app", "support_others", "healthcare"];
+const VISIBLE_COLUMNS = ["work", "name", "app", "support_others", "healthcare", "captcha"];
 
 const tableOverrideStyles = {
   marginBottom: "0px",
