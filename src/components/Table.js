@@ -11,6 +11,7 @@ const HEADERS = {
   handle: "Handle",
   support_others: "Do you support others financially?",
   healthcare: "Do you have healthcare?",
+  captcha: "Type the characters you see below (without spaces)",
 };
 
 
