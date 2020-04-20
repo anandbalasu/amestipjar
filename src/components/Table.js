@@ -11,11 +11,11 @@ const HEADERS = {
   handle: "Handle",
   support_others: "Do you support others financially?",
   healthcare: "Do you have healthcare?",
-  captcha: "Type the characters you see below (without spaces)", 
+  captcha: "Type the characters you see below (without spaces)",
 };
 
 
-const VISIBLE_COLUMNS = ["work", "name", "app", "support_others", "healthcare", "captcha"];
+const VISIBLE_COLUMNS = ["work", "name", "app", "support_others", "healthcare"];
 
 const tableOverrideStyles = {
   marginBottom: "0px",
