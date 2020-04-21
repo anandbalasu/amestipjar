@@ -9,6 +9,7 @@ import social1 from "../images/social-1.png";
 import social2 from "../images/social-2.png";
 import social3 from "../images/social-3.png";
 import social4 from "../images/social-4.png";
+import press1 from "../images/amestrib_logo.png";
 
 const Intro = () => (
   <div className="intro">
@@ -61,6 +62,12 @@ const Pledge = () => (
       <img
         src={social4}
         alt="I pledge to tip for every cup of coffee I wish was a latte"
+      />
+    </a>
+    <a href={press1}>
+      <img
+        src={press1}
+        alt="Article by Ames Tribune on Ames Tip Jar"
       />
     </a>
   </div>
