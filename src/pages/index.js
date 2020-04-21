@@ -119,7 +119,6 @@ const IndexPage = () => {
       </nav>
       <Pledge />
       <Article />
-      <Testimonial/>
     </Layout>
   );
 };
