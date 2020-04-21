@@ -65,6 +65,11 @@ const Pledge = () => (
         alt="I pledge to tip for every cup of coffee I wish was a latte"
       />
     </a>
+  </div>
+);
+
+const Article = () => (
+  <div className="article">
     <a href="https://www.amestrib.com/business/20200417/ames-tip-jar-website-created-to-give-back-to-service-industry">
       <img
         src={press1}
@@ -113,6 +118,7 @@ const IndexPage = () => {
         <Link to="/signup">Sign up to receive tips</Link>
       </nav>
       <Pledge />
+      <Article />
       <Testimonial/>
     </Layout>
   );

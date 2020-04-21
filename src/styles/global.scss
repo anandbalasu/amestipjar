@@ -171,6 +171,17 @@ nav {
   }
 }
 
+.article {
+  padding-top: 40px;
+  margin-top: 40px;
+
+  img {
+    max-width: calc(50% - 40px);
+    align-items: center;
+    margin: 10px;
+  }
+}
+
 .random-button {
   @extend .button;
   background-color: $red;
