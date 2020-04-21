@@ -9,7 +9,7 @@ import social1 from "../images/social-1.png";
 import social2 from "../images/social-2.png";
 import social3 from "../images/social-3.png";
 import social4 from "../images/social-4.png";
-import press1 from "../images/amestrib_logo.png";
+import press1 from "../images/ames_tribune_logo.png";
 import press2 from "../images/clay_milk_logo.png";
 
 const Intro = () => (
