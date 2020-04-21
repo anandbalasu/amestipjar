@@ -67,7 +67,7 @@ const Pledge = () => (
     </a>
     <a href={press1}>
       <img
-        src={press1}
+        src="https://www.amestrib.com/business/20200417/ames-tip-jar-website-created-to-give-back-to-service-industry"
         alt="Article by Ames Tribune on Ames Tip Jar"
       />
     </a>
