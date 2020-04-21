@@ -65,13 +65,13 @@ const Pledge = () => (
         alt="I pledge to tip for every cup of coffee I wish was a latte"
       />
     </a>
-    <a href={press1}>
+    <a href="https://www.amestrib.com/business/20200417/ames-tip-jar-website-created-to-give-back-to-service-industry">
       <img
-        src="https://www.amestrib.com/business/20200417/ames-tip-jar-website-created-to-give-back-to-service-industry"
+        src={press1}
         alt="Article by Ames Tribune on Ames Tip Jar"
       />
     </a>
-    <a href={press2}>
+    <a href="https://clayandmilk.com/2020/04/17/middle-bit-global-insurance-accelerator-to-hold-virtual-pitch-event-on-april-22/">
       <img
         src={press2}
         alt="Article by Clay & Milk on Ames Tip Jar"
